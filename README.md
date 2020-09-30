@@ -1,7 +1,7 @@
 # feat-engineering-slides
 Slides for study group on [Feature Engineering and Selection...](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson. Slides were created in late 2019 by Bryan Shalloway and Stephen Kimel as supporting materials for an internal study group we led on the book. Slides are in both .ppt and .pdf formats (.ppt slides frequently have slide animations that were used to set the pace for group discussion).
 
-Slides are composed almost entirely of key quotes and figures that we copied from the associated chapter of Max and Kjell's book (if there is not a reference on a figure, you can assume it came from the associated chapter of [Feature Engineering and Selection...](http://www.feat.engineering/)). We occassionally copied figures from other sources (references for these are typically made explicit on the slide).
+Slides are composed almost entirely of key quotes and figures that we copied from the associated chapter of Max and Kjell's book (if there is not a reference on a figure, you can assume it came from the associated chapter of [Feature Engineering and Selection...](http://www.feat.engineering/)). We sometimes copied figures from other sources (references for these are typically made explicit on the slide) and occassionally created new figures ourselves.
 
 Materials are not cleaned-up or 'ready-made' for cource materials (should view primarily as a collection of notes and key exerpts for discussion). For more polished materials, we recommend exploring https://www.tidymodels.org/ 
 
